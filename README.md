@@ -3,3 +3,5 @@
 学的是JavaSE，为SpringCloud做铺垫。
 
 [参考教学链接](https://www.bilibili.com/video/BV1YP4y1o75f?p=117)
+
+**Book.sav**是保存图书信息的文件，内置了随便找的三本书...
